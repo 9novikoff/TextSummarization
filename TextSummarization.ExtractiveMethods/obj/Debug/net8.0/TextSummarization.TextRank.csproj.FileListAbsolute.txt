@@ -1,0 +1,15 @@
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.TextRank\bin\Debug\net8.0\TextSummarization.TextRank.deps.json
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.TextRank\bin\Debug\net8.0\TextSummarization.TextRank.dll
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.TextRank\bin\Debug\net8.0\TextSummarization.TextRank.pdb
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.TextRank\bin\Debug\net8.0\TextSummarization.Stemmer.dll
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.TextRank\bin\Debug\net8.0\TextSummarization.Stemmer.pdb
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.TextRank\obj\Debug\net8.0\TextSummarization.TextRank.csproj.AssemblyReference.cache
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.TextRank\obj\Debug\net8.0\TextSummarization.TextRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.TextRank\obj\Debug\net8.0\TextSummarization.TextRank.AssemblyInfoInputs.cache
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.TextRank\obj\Debug\net8.0\TextSummarization.TextRank.AssemblyInfo.cs
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.TextRank\obj\Debug\net8.0\TextSummarization.TextRank.csproj.CoreCompileInputs.cache
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.TextRank\obj\Debug\net8.0\TextSummarization.TextRank.csproj.CopyComplete
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.TextRank\obj\Debug\net8.0\TextSummarization.TextRank.dll
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.TextRank\obj\Debug\net8.0\refint\TextSummarization.TextRank.dll
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.TextRank\obj\Debug\net8.0\TextSummarization.TextRank.pdb
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.TextRank\obj\Debug\net8.0\ref\TextSummarization.TextRank.dll

@@ -1,0 +1,11 @@
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.Stemmer\bin\Debug\net8.0\TextSummarization.Stemmer.deps.json
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.Stemmer\bin\Debug\net8.0\TextSummarization.Stemmer.dll
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.Stemmer\bin\Debug\net8.0\TextSummarization.Stemmer.pdb
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.Stemmer\obj\Debug\net8.0\TextSummarization.Stemmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.Stemmer\obj\Debug\net8.0\TextSummarization.Stemmer.AssemblyInfoInputs.cache
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.Stemmer\obj\Debug\net8.0\TextSummarization.Stemmer.AssemblyInfo.cs
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.Stemmer\obj\Debug\net8.0\TextSummarization.Stemmer.csproj.CoreCompileInputs.cache
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.Stemmer\obj\Debug\net8.0\TextSummarization.Stemmer.dll
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.Stemmer\obj\Debug\net8.0\refint\TextSummarization.Stemmer.dll
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.Stemmer\obj\Debug\net8.0\TextSummarization.Stemmer.pdb
+C:\Users\Novikov\RiderProjects\TextSummarization\TextSummarization.Stemmer\obj\Debug\net8.0\ref\TextSummarization.Stemmer.dll

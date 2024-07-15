@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uONCZk0kHS4Up+906enGANpO+sbAhwmN8nGDbzJD604=",
+  "Source": "TextSummarization.Api",
+  "BasePath": "_content/TextSummarization.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

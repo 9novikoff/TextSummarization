@@ -1,0 +1,260 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.ConsoleApp\\TextSummarization.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.ConsoleApp\\TextSummarization.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.ConsoleApp\\TextSummarization.ConsoleApp.csproj",
+        "projectName": "TextSummarization.ConsoleApp",
+        "projectPath": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.ConsoleApp\\TextSummarization.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Novikov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Novikov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.ExtractiveMethods\\TextSummarization.ExtractiveMethods.csproj": {
+                "projectPath": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.ExtractiveMethods\\TextSummarization.ExtractiveMethods.csproj"
+              },
+              "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.Metrics\\TextSummarization.Metrics.csproj": {
+                "projectPath": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.Metrics\\TextSummarization.Metrics.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.ExtractiveMethods\\TextSummarization.ExtractiveMethods.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.ExtractiveMethods\\TextSummarization.ExtractiveMethods.csproj",
+        "projectName": "TextSummarization.ExtractiveMethods",
+        "projectPath": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.ExtractiveMethods\\TextSummarization.ExtractiveMethods.csproj",
+        "packagesPath": "C:\\Users\\Novikov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.ExtractiveMethods\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Novikov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.Stemmer\\TextSummarization.Stemmer.csproj": {
+                "projectPath": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.Stemmer\\TextSummarization.Stemmer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.13.12, )"
+            },
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "QuickGraph": {
+              "target": "Package",
+              "version": "[3.6.61119.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.Metrics\\TextSummarization.Metrics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.Metrics\\TextSummarization.Metrics.csproj",
+        "projectName": "TextSummarization.Metrics",
+        "projectPath": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.Metrics\\TextSummarization.Metrics.csproj",
+        "packagesPath": "C:\\Users\\Novikov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.Metrics\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Novikov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.ExtractiveMethods\\TextSummarization.ExtractiveMethods.csproj": {
+                "projectPath": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.ExtractiveMethods\\TextSummarization.ExtractiveMethods.csproj"
+              },
+              "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.Stemmer\\TextSummarization.Stemmer.csproj": {
+                "projectPath": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.Stemmer\\TextSummarization.Stemmer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.Stemmer\\TextSummarization.Stemmer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.Stemmer\\TextSummarization.Stemmer.csproj",
+        "projectName": "TextSummarization.Stemmer",
+        "projectPath": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.Stemmer\\TextSummarization.Stemmer.csproj",
+        "packagesPath": "C:\\Users\\Novikov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Novikov\\RiderProjects\\TextSummarization\\TextSummarization.Stemmer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Novikov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
